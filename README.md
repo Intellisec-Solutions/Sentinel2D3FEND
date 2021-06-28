@@ -8,7 +8,7 @@ This code snippet retrieves Azure Sentinel Incidents that are mapped to MITRE AT
 Also you can generate D3FEND defenses from an MITRE ATT1CK navigator layer
 
 ![](/images/Sentinel2D3FEND.png)
-
+ 
 ## CSVs
 Additionally this repository provides 2 helpful CSV files: 
 
